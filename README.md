@@ -4,8 +4,7 @@ Welcome to my Power BI project: **Mobile Sales Dashboard**. It demonstrates how 
 
 ---
 
-
-
+<img width="658" alt="Image" src="https://github.com/user-attachments/assets/d52f984e-7225-4e48-8955-e2d6fc9ed099" />
 
 
 ## 🧠 Project Objective
@@ -73,16 +72,16 @@ This dashboard is designed with **Business Analysts**, **Sales Analysts**, and *
 
 This project is part of my certified training from the **30-Day Power BI Micro Course** by Satish Dhawale.  
 📅 Certification Date: **May 1, 2025**  
-🔗 [LinkedIn Post](#)(https://www.linkedin.com/posts/vishal-jaiswal-data_im-happy-to-share-that-ive-obtained-a-new-activity-7323626070899916800-GDSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABo6Co8BAKDLxKosXV_iY6ofb4Cg-bXAXSQ)
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/vishal-jaiswal-data_im-happy-to-share-that-ive-obtained-a-new-activity-7323626070899916800-GDSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABo6Co8BAKDLxKosXV_iY6ofb4Cg-bXAXSQ)
 
 ---
 
 ## 📬 Contact
 
 **Vishal Jaiswal**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vishal-jaiswal-data/)  
-📧 [jaiswalmagic1@example.com]
-📧 [CuriousClub.in]
+🔗 [LinkedIn](https://www.linkedin.com/in/vishal-jaiswal-data/)  
+📧 [Email](jaiswalmagic1@example.com)
+📧 [Visit my Blog Website](https://CuriousClub.in)
 
 ---
 
